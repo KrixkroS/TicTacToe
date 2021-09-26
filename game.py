@@ -1,7 +1,7 @@
 # Tic Tac Toe class + game implementation by me
 # try to defeat the computer 
 # non copyrighted
-# seeked help from a youtuber
+# seeked help from a youtuber T_T
 # music i listen to while i code https://open.spotify.com/playlist/0eZuvCrua6GSTnUlimORoQ?si=75890dd981d841c9
 
 
