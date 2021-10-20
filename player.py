@@ -1,3 +1,6 @@
+#player code 
+
+
 import math
 import random
 
@@ -80,3 +83,5 @@ class SmartComputerPlayer(Player):
                 if sim_score['score'] < best['score']:
                     best = sim_score
         return best
+
+    # ------------xx end of the code xx-----------
